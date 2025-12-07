@@ -6,7 +6,7 @@ The motivation for this research arises from the limitations of existing spectru
 
 This paper makes four key contributions toward improving both the accuracy and efficiency of spectrogram-based signal segmentation. First, we introduce the Optimal Spectrogram Network (OS-Net), a novel encoder–decoder architecture tailored for wireless signal segmentation. Second, we propose Max-pooling with Adaptive Reconstruction (MAR), enabling the decoder to selectively restore salient features from the encoder, thus preserving critical spectral details without added computational cost. Third, we develop Error-Guided Refinement (EGR), an auxiliary loss that directs the model to focus on misclassified pixels, significantly improving accuracy on challenging signals such as radar pulses. Finally, we apply Model Quantization (MQ) to optimize OS-Net for real-time deployment, yielding a compact 4.6M-parameter model that outperforms established baselines like U-Net and PRMNet in both accuracy and speed.
 
-The Python code and dataset provided here are part of the accepted paper in the 2025 International Conference on Advanced Technologies for Communications (ATC) Program, Hanoi Capital, Vietnam, Oct. 2025.
+The Python code and dataset provided here are part of the paper in the 2025 International Conference on Advanced Technologies for Communications (ATC) Program, Hanoi Capital, Vietnam, Oct. 2025.
 
 Huu-Tai Nguyen, Hai-Trang Phuoc Dang, Minh-Thanh Le, Van-Ca Phan, and Thien Huynh-The, "Spectrum Sensing in Radar-Communications Systems for Signal Identification: Deep Learning with Error-Guided Refinement," in Proc. ATC, Oct. 2025. [[Link](https://ieeexplore.ieee.org/document/11268755)]
 
