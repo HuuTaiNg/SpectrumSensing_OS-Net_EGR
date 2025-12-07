@@ -8,7 +8,7 @@ This paper makes four key contributions toward improving both the accuracy and e
 
 The Python code and dataset provided here are part of the accepted paper in the 2025 International Conference on Advanced Technologies for Communications (ATC) Program, Hanoi Capital, Vietnam, Oct. 2025.
 
-Huu-Tai Nguyen, Hai-Trang Phuoc Dang, Minh-Thanh Le, Van-Ca Phan, and Thien Huynh-The, "Spectrum Sensing in Radar-Communications Systems for Signal Identification: Deep Learning with Error-Guided Refinement," in ATC, Oct. 2025 (accepted).
+Huu-Tai Nguyen, Hai-Trang Phuoc Dang, Minh-Thanh Le, Van-Ca Phan, and Thien Huynh-The, "Spectrum Sensing in Radar-Communications Systems for Signal Identification: Deep Learning with Error-Guided Refinement," in Proc. ATC, Oct. 2025. [[Link](https://ieeexplore.ieee.org/document/11268755)]
 
 The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/huutai23012003/radar-5g-lte-spectrogram-c03/data). Please report if it is not available.
 
